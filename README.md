@@ -133,11 +133,6 @@ src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads
 src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347743131i/701406.jpg" width="86" height="133.3">
 </a>
 
-<a href="https://www.goodreads.com/book/show/4202065-the-capability-approach?ref=nav_sb_ss_2_6">
-<img border="0" title="The Capability Approach: Concepts, Measures and Applications" 
-src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347799616i/4202065.jpg" width="86" height="133.3">
-</a>
-
 <a href="https://www.goodreads.com/book/show/9744812-flourish?ref=nav_sb_ss_4_8">
 <img border="0" title="Flourish: A Visionary New Understanding of Happiness and Well-Being" 
 src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1435373984i/9744812.jpg" width="86" height="133.3">
@@ -156,6 +151,16 @@ src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads
 <a href="https://www.goodreads.com/book/show/173961.Development_as_Freedom?ref=nav_sb_ss_2_11">
 <img border="0" title="Development as Freedom" 
 src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320411543i/173961.jpg" width="86" height="133.3">
+</a>
+
+<a href="https://www.goodreads.com/book/show/10549868-creating-capabilities">
+<img border="0" title="Creating Capabilities: The Human Development Approach" 
+src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347364353i/10549868.jpg" width="86" height="133.3">
+</a>
+
+<a href="https://www.goodreads.com/book/show/4202065-the-capability-approach?ref=nav_sb_ss_2_6">
+<img border="0" title="The Capability Approach: Concepts, Measures and Applications" 
+src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347799616i/4202065.jpg" width="86" height="133.3">
 </a>
 
 <a href="https://www.goodreads.com/book/show/38489472-handbook-of-eudaimonic-well-being?ref=nav_sb_ss_1_33">
