@@ -81,6 +81,11 @@ src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads
 src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348005727i/2005263.jpg" width="86" height="133.3">
 </a>
 
+<a href="https://www.goodreads.com/book/show/54985573-a-modern-guide-to-the-economics-of-happiness">
+<img border="0" title="A Modern Guide to the Economics of Happiness" 
+src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1604383791i/54985573.jpg" width="86" height="133.3">
+</a>
+
 Ampliatoria en temas relacionados
 
 <a href="https://www.goodreads.com/book/show/103867.Descartes_Error">
