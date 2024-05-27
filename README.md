@@ -1,4 +1,4 @@
-<a href="url"><img src="http://www.economicas.uba.ar/econ2019/wp-content/themes/econ2016/img/ui/logo.png"></a>
+<a href="url"><img src="https://mi.econ.uba.ar/assets/images/logo_fce-uba_short.jpg" width="300"></a>
 
 # Clase sobre Felicidad
 Curso: Economía de la Conducta (Tópicos de Micro), Dr. Mira, Pablo </br>
