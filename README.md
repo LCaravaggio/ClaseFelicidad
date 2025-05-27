@@ -1,4 +1,4 @@
-<a href="url"><img src="https://mi.econ.uba.ar/assets/images/logo_fce-uba_short.jpg" width="300"></a>
+<a href="url"><img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Logo-FCE.png" width="100"></a>
 
 # Clase sobre Felicidad
 Curso: Economía de la Conducta (Tópicos de Micro), Dr. Mira, Pablo </br>
