@@ -3,7 +3,7 @@
 # Clase sobre Felicidad
 Curso: Economía de la Conducta (Tópicos de Micro), Dr. Mira, Pablo </br>
 
-[Slides](https://github.com/LCaravaggio/ClaseFelicidad/blob/main/Clase_Felicidad_2025.pdf)
+[Slides](https://github.com/LCaravaggio/ClaseFelicidad/blob/main/Clase_Felicidad_Grado.pdf)
 
 # Bibliografía
 
